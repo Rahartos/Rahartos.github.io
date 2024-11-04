@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - MiniProject1_files_copy/MiniProject1.qmd
-      - MiniProject2Copy/MiniProject2Submission.qmd
+      - MiniProject2Copy2/MiniProject2Submission.qmd
       - projectlinks.qmd
 
 format:
