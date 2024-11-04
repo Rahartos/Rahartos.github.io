@@ -1,19 +1,20 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "Rahartos.github.io"
+  title: "Rain Hartos"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - MiniProject1_files_copy/MiniProject1.qmd
+      - MiniProject2Copy/MiniProject2Submission.qmd
+      - projectlinks.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: true
-
-editor: visual
-
+    page-layout: full

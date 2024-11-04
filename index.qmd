@@ -1,11 +1,39 @@
 ---
-title: "Rahartos.github.io"
+title: "Rain Hartos"
+subtitle: "A game design and a data visualization enthusiast with a passion to learn and create."
+image: RainHartosHeadshot.jpg
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/rain-hartos-4a05a913b/
+    - text: GitHub
+      href: https://github.com/Rahartos
+    - text: Email
+      href: rahartos@gmail.com
 ---
 
-This is a Quarto website.
+### **Education**
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+BA in Computer Science
 
-```{r}
-1 + 1
-```
+Statistics and Data Science concentration
+
+2025 \| St. Olaf College
+
+### Experience
+
+**STATISTICS TUTOR**
+
+August 2023 - Present \| St. Olaf Academic Success Center
+
+**COMPUTER SCIENCE LEAD TA**
+
+January 2023 - Present \| St. Olaf MSCS Department
+
+**COMPUTER SCIENCE TA**
+
+September 2023 - Present \| St. Olaf MSCS Department

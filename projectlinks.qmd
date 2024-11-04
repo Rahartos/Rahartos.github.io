@@ -1,0 +1,19 @@
+---
+title: "Other Projects"
+---
+
+### [Scarlet's Shadow – May, 2024](https://dis-cph.itch.io/scarlets-shadow?password=DIS)
+
+A 2.5D video game created with fellow students Yuina Iseki, Dasol Lee, and Patrick Garcia at DIS Copenhagen, Denmark. Took on the role of creating and designing all of the UI and coding the foundations of the game in C#.
+
+### [**The Slime Alchemist - February, 2024**](https://dis-cph.itch.io/slime-alchemist?password=DIS)
+
+Designed all UI elements and took on the primary role of developing the backend using C# to create an educational platformer game for kids in Unity.
+
+### Analyzing Security Breaches in the US - Dec, 2023
+
+Done as a project for Stats 2 in collaboration with Maheen Asim, used multi-linear regression to predict the number of individuals affected by security breaches based on type, location, year, and region of the breach.
+
+### BIOS-4 - March, 2023
+
+Designed and developed all front-end code using HTML and Python to visualize environmental impacts on simulated biomes. Project was done with a team of 3 other members for the Oles Hack 2023 hackathon.
