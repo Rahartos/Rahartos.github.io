@@ -1,5 +1,5 @@
 ---
-title: "Past Projects"
+title: "Projects"
 ---
 
 ### [Stardew Valley Item Profit Visualizer - December, 2024](https://rahartos.shinyapps.io/StardewValleyItemProfits/)
