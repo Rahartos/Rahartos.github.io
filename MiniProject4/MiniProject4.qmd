@@ -1,5 +1,5 @@
 ---
-title: "Mini Project 4: Text Analysis"
+title: "Women in Headlines Text Analysis"
 author: "Rain Hartos"
 toc: true
 highlight-style: pygments

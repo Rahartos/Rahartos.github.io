@@ -1,6 +1,14 @@
 ---
-title: "Other Projects"
+title: "Past Projects"
 ---
+
+### [Stardew Valley Item Profit Visualizer - December, 2024](https://rahartos.shinyapps.io/StardewValleyItemProfits/)
+
+A interactive webpage that takes data scrapped from the Stardew Valley Wiki page to display trends across in-game items. Website was built using Shiny dashboards, and code to gather data and produce graphs was done in R.
+
+### Women In Headlines - November, 2024
+
+An exploratory text analysis on the trends of how women are portrayed in article headlines. Conducted sentiment analysis and highlighted categories and themes based on TF-IDF scores in R.
 
 ### [Scarlet's Shadow – May, 2024](https://dis-cph.itch.io/scarlets-shadow?password=DIS)
 

@@ -8,8 +8,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - MiniProject1_files_copy/MiniProject1.qmd
-      - MiniProject2/MiniProject2Submission.qmd
       - MiniProject4/MiniProject4.qmd
       - projectlinks.qmd
 
