@@ -8,7 +8,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - MiniProject4/MiniProject4.qmd
       - projectlinks.qmd
 
 format:
